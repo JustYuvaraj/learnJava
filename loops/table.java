@@ -9,7 +9,7 @@ public class table
 		System.out.print("Entertill table no:");
 
 		int m = sc.nextInt();
-        int i =1;
+                int i =1;
 		while(i<=m){
 		    System.out.println(i+"X"+n+"="+n*i);
 		    i = i +1;
